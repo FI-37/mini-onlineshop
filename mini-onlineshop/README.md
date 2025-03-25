@@ -15,6 +15,6 @@ Willkommen im **Mini Online Shop** – einem einfachen, aber funktionsreichen On
 Folgen Sie diesen Schritten, um das Projekt lokal auszuführen:
  
 1. **Repository klonen:**  
-   Öffnen Sie Ihr Terminal oder Git Bash, navigieren Sie zu dem Verzeichnis, in dem Sie das Projekt speichern möchten, und führen Sie folgenden Befehl aus:
+   Öffnen Sie Ihr Terminal oder Git Bash, navigieren Sie zu dem Verzeichnis, in dem Sie das Projekt speichern möchten , und führen Sie folgenden Befehl aus:
    ```bash
    git clone https://github.com/FI-37/mini-onlineshop
